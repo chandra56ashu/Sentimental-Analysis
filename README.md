@@ -1,4 +1,4 @@
-﻿# ClassifyingTweetsBasedonClimateChangeStance
+﻿# Classifying Tweets Based on Climate Change Stance
 **Aim:**
 
 Twitter is a popular social networking website where users posts and interact with messages known as "tweets". This serves as a means for individuals to express their thoughts or feelings about different subjects. Various parties such as consumers and marketers have done sentiment analysis on such tweets to gather insights into products or conduct market analysis. Furthermore, with the recent advancements in machine learning algorithms,the accuracy of our sentiment analysis predictions can improve.
