@@ -1,0 +1,49 @@
+
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-color:#0ef777;
+}
+
+.container{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+	color: aqua;
+}
+
+.main-header{
+			text-align:center;
+			background-color: rgb(226, 47, 15);
+			height:100px;
+			width:100%;
+			margin:0px;
+		}
+#brandname{
+	float:left;
+	font-size:20px;
+	color: rgb(146, 16, 233);
+	margin: 10px;
+}
+
+header h2{
+	color:rgb(248, 97, 9);
+
+}
+
+
+
+.btn-info {background-color: #2196F3;
+	height:40px;
+	width:100px;} /* Blue */
+.btn-info:hover {background: #e76c06;}
+
+
+.result{
+	text-align:center;
+	border-radius: 15px 50px;
+    background: #04bbf3;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+}
